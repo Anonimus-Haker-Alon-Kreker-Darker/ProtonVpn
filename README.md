@@ -1,2 +1,2 @@
 # ProtonVpn
-https://protonvpn.com/
+https://protonvpn.com/tor
